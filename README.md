@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jeongchanyoung-1234
-- 👀 I’m interested in AI!
-- 🌱 I’m currently learning AI!
-- 💞️ I’m looking to collaborate on AI!
-- 📫 reach me : jcy1996@naver.com 
+- 👋 Hi, I’m jeongchanyoung.
+- 👀 I’m interested in NLP, especially Text Generation and Dialogue State Tracking.
+- 🌱 I’m currently studying for a master's degree at POSTECH.
+- 📫 reach me : jcy1996@postech.ac.com 
 
 <!---
 jeongchanyoung-1234/jeongchanyoung-1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
