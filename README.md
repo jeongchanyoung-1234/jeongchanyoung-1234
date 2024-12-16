@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jeongchanyoung.
-- 👀 I’m interested in NLP, especially Text Generation and Dialogue State Tracking.
+- 👀 I’m interested in NLP, especially Text Generation.
 - 🌱 I’m currently studying for a master's degree at POSTECH.
 - 📫 reach me : jcy1996@postech.ac.com 
 
